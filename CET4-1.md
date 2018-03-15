@@ -27,3 +27,22 @@
 
 + cargo
 货物。car汽车 + go走，要用车运送走的东东。
+
++ freight
+货物。比cargo更重，需要更大的地方。
+
++ dairy
+乳制品。daily日常，当你还是宝宝时，奶是你的日常刚需。
+
++ vigor
+精力。vigorous，天天通宵渣游戏的精力充沛。If something is rigourous,  it's challenging and or hard , so to overcome something under rigid conditions (rigorous)  one must have the vigor (strength) 。
+
++ domestic
+国产的，国货。dome = round structure圆形结构，在国外文化中，因为原始的房屋（例如穴居）都是圆形的，所以圆形的建筑代表家；tic...的；家里的=国产的。
+
++ prior
+优先的。pri = before。
+
+
+
+
