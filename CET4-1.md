@@ -1,5 +1,5 @@
 + mechanics
-力学。machine机器；ics学科。
+力学。(mech)-machine机器；ics学科。
 
 + literacy
 读写能力，文化教养。literals指在拉丁语等的学习中，通常会列一个list，比如学习所有a开头的单词，然后每个前面会有符号，比如·或Ⅰ、Ⅳ等，同时这些词可能有某些关联相似，就好比中文中的偏旁部首；acy表示名词。
